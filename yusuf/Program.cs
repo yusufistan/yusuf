@@ -8,5 +8,5 @@
 
             Console.WriteLine("merhaba gardaş");
         }
-    }
+    }gardaş deriz kankaya 
 }
